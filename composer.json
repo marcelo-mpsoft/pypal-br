@@ -35,7 +35,6 @@
             "email":"apuhlmann@paypal.com"
         }
     ],
-    "minimum-stability": "dev-master",
     "scripts": {
         "test": "phpunit"
     },
