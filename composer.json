@@ -1,5 +1,5 @@
 {
-    "name": "br-paypaldev/magento2-module",
+    "name": "marcelo-mpsoft/pypal-br",
     "license": "GPL-3.0-only",
     "type": "magento2-module",
     "description": "Módulo PayPal para Magento2",
